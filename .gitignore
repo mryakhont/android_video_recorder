@@ -83,3 +83,6 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+*.name
+*.xml
+/gradle/wrapper/gradle-wrapper.jar
